@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SOYO Tek Onay</string>
+    <string name="accessibility_description">SOYO ekranındaki kişi adını algılar, kişiselleştirilmiş mesajı hazırlar ve yalnızca kullanıcı onayıyla Gönder düğmesine basar.</string>
+</resources>

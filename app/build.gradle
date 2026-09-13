@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.example.soyomesaj'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'com.example.soyomesaj'
+        minSdk 23
+        targetSdk 36
+        versionCode 9
+        versionName '1.8'
+    }
+}
